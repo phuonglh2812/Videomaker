@@ -1045,13 +1045,20 @@
     "saved_at": "2025-01-20T10:40:44.376464"
   },
   "d91f27dc-69c9-431a-8d9b-e2c265fff15f": {
-    "status": "processing",
-    "message": "Found 1 video groups to process",
-    "progress": 0,
-    "processed": 0,
+    "status": "completed",
+    "processed_count": 1,
+    "failed_count": 0,
     "total": 1,
-    "results": [],
-    "updated_at": "2025-01-20T11:26:14.913467",
-    "saved_at": "2025-01-20T11:26:14.913467"
+    "results": [
+      {
+        "name": "kb1",
+        "status": "success",
+        "output_path": "D:\\CodeNew\\final\\kb1_1737347174.mp4"
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 1 succeeded, 0 failed.",
+    "updated_at": "2025-01-20T11:29:36.793633",
+    "saved_at": "2025-01-20T11:29:36.793633"
   }
 }
