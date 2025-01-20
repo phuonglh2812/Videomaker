@@ -1,0 +1,67 @@
+{
+    "1": {
+        "font_name": "calibrib",
+        "font_size": 30,
+        "primary_color": "&HFFFFFF&",
+        "outline_color": "&H000000&",
+        "back_color": "&H000000&",
+        "outline_width": 2,
+        "shadow_width": 1,
+        "margin_v": 20,
+        "margin_h": 100,
+        "alignment": 2,
+        "max_chars": 36
+    },
+    "2": {
+        "font_name": "Modern No. 20",
+        "font_size": "30",
+        "primary_color": "&HFFFFFF&",
+        "outline_color": "&H000000&",
+        "back_color": "&H000000&",
+        "outline": "2",
+        "shadow": "1",
+        "margin_v": "20",
+        "margin_h": "100",
+        "alignment": "2",
+        "max_chars": "36"
+    },
+    "3": {
+        "font_name": "Modern No. 20",
+        "font_size": "30",
+        "primary_color": "&HFFFFFF&",
+        "outline_color": "&H000000&",
+        "back_color": "&H000000&",
+        "outline": "2",
+        "shadow": "1",
+        "margin_v": "20",
+        "margin_h": "100",
+        "alignment": "2",
+        "max_chars": "36"
+    },
+    "FamilyTileTales": {
+        "font_name": "DINOT-Medium",
+        "font_size": "30",
+        "primary_color": "&HFFFFFF&",
+        "outline_color": "&H000000&",
+        "back_color": "&H000000&",
+        "outline": "2",
+        "shadow": "1",
+        "margin_v": "20",
+        "margin_h": "100",
+        "alignment": "5",
+        "max_chars": "30"
+    },
+    "FamilyTiesTales": {
+        "font_name": "DINOT-Medium",
+        "font_size": "28",
+        "primary_color": "&HFFFFFF&",
+        "outline_color": "&H000000&",
+        "back_color": "&H000000&",
+        "outline": "2",
+        "shadow": "1",
+        "margin_v": "20",
+        "margin_h": "100",
+        "alignment": "5",
+        "max_chars": "30"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "font_name": "EuclidFlex-Bold",
+    "font_size": "30",
+    "primary_color": "&Hffffff&",
+    "outline_color": "&H000000&",
+    "back_color": "&H000000&",
+    "margin_h": "100",
+    "max_chars": "40"
+}

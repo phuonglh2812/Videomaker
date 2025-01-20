@@ -1,0 +1,1057 @@
+{
+  "00aa6b7e-64e8-44c9-931e-eb1bc175dfb0": {
+    "status": "failed",
+    "error": "SettingsManager.__init__() missing 1 required positional argument: 'base_path'",
+    "updated_at": "2025-01-18T22:41:27.984159",
+    "saved_at": "2025-01-18T22:41:27.988824"
+  },
+  "6e3b0cc9-79aa-4e0e-b9fb-301fdc9feefc": {
+    "status": "failed",
+    "error": "SettingsManager.__init__() missing 1 required positional argument: 'base_path'",
+    "updated_at": "2025-01-18T22:42:47.180167",
+    "saved_at": "2025-01-18T22:42:47.186820"
+  },
+  "51588417-1116-4c5a-a8a0-65f655dc1c5e": {
+    "status": "failed",
+    "error": "SettingsManager.__init__() missing 1 required positional argument: 'base_path'",
+    "updated_at": "2025-01-18T22:43:32.461675",
+    "saved_at": "2025-01-18T22:43:32.466270"
+  },
+  "714fbe4b-3a26-400b-81a7-fb44a0ae0c01": {
+    "status": "failed",
+    "error": "SettingsManager.__init__() missing 1 required positional argument: 'base_path'",
+    "updated_at": "2025-01-18T22:43:41.225741",
+    "saved_at": "2025-01-18T22:43:41.234280"
+  },
+  "5f41c2f6-00d9-4be4-98a5-9cde2f98094e": {
+    "status": "failed",
+    "error": "SettingsManager.__init__() missing 1 required positional argument: 'base_path'",
+    "updated_at": "2025-01-18T22:44:00.875706",
+    "saved_at": "2025-01-18T22:44:00.881229"
+  },
+  "67aa6210-dbb6-4d57-8de3-b5663a85f254": {
+    "status": "failed",
+    "error": "SettingsManager.__init__() missing 1 required positional argument: 'base_path'",
+    "updated_at": "2025-01-18T22:44:03.584705",
+    "saved_at": "2025-01-18T22:44:03.589774"
+  },
+  "d457b4d1-ae2a-4910-8917-315a105b0c44": {
+    "status": "failed",
+    "error": "SettingsManager.__init__() missing 1 required positional argument: 'base_path'",
+    "updated_at": "2025-01-18T22:45:08.849898",
+    "saved_at": "2025-01-18T22:45:08.856237"
+  },
+  "67c8c18c-3a84-4ff4-8be5-a20c619cc4b5": {
+    "status": "failed",
+    "error": "SettingsManager.__init__() missing 1 required positional argument: 'base_path'",
+    "updated_at": "2025-01-18T22:45:10.043916",
+    "saved_at": "2025-01-18T22:45:10.050557"
+  },
+  "d3299e46-5427-44db-adc1-5a3fe56f0f18": {
+    "status": "failed",
+    "error": "SettingsManager.__init__() missing 1 required positional argument: 'base_path'",
+    "updated_at": "2025-01-18T22:47:20.840067",
+    "saved_at": "2025-01-18T22:47:20.848394"
+  },
+  "71a7051f-8d86-4ddb-81d6-047a5cd456d5": {
+    "status": "failed",
+    "error": "SettingsManager.__init__() missing 1 required positional argument: 'base_path'",
+    "updated_at": "2025-01-18T22:49:51.138168",
+    "saved_at": "2025-01-18T22:49:51.148286"
+  },
+  "509c00ed-4d83-464b-8609-c650a669963b": {
+    "status": "failed",
+    "error": "SettingsManager.__init__() missing 1 required positional argument: 'base_path'",
+    "updated_at": "2025-01-18T22:51:01.233692",
+    "saved_at": "2025-01-18T22:51:01.238659"
+  },
+  "e9bef57f-5af0-4626-abce-189d2df5219a": {
+    "status": "failed",
+    "error": "SettingsManager.__init__() missing 1 required positional argument: 'base_path'",
+    "updated_at": "2025-01-18T22:51:03.963591",
+    "saved_at": "2025-01-18T22:51:03.969362"
+  },
+  "2583b5b1-e7e1-4b26-a0db-d93bb34aecac": {
+    "status": "failed",
+    "error": "SettingsManager.__init__() missing 1 required positional argument: 'base_path'",
+    "updated_at": "2025-01-18T22:54:36.834541",
+    "saved_at": "2025-01-18T22:54:36.844855"
+  },
+  "77995cc6-d38d-468d-b3f0-7e4004bc185d": {
+    "status": "failed",
+    "error": "SettingsManager.__init__() missing 1 required positional argument: 'base_path'",
+    "updated_at": "2025-01-18T22:57:11.146477",
+    "saved_at": "2025-01-18T22:57:11.151561"
+  },
+  "eb224f08-6de5-43ae-8d69-2e99b281812b": {
+    "status": "failed",
+    "error": "SettingsManager.__init__() missing 1 required positional argument: 'base_path'",
+    "updated_at": "2025-01-18T22:57:37.045076",
+    "saved_at": "2025-01-18T22:57:37.049612"
+  },
+  "0b4bbc15-a3f4-49d1-9d93-7cda035920d1": {
+    "status": "failed",
+    "error": "SettingsManager.__init__() missing 1 required positional argument: 'base_path'",
+    "updated_at": "2025-01-18T22:57:38.113587",
+    "saved_at": "2025-01-18T22:57:38.122257"
+  },
+  "692477bc-61f7-483b-9c5e-f086e12bfa7c": {
+    "status": "failed",
+    "error": "SettingsManager.__init__() missing 1 required positional argument: 'base_path'",
+    "updated_at": "2025-01-18T23:00:12.669797",
+    "saved_at": "2025-01-18T23:00:12.677594"
+  },
+  "5eaccd3f-b14e-40fd-ae47-a1be3e2f6bda": {
+    "status": "failed",
+    "error": "SettingsManager.__init__() missing 1 required positional argument: 'base_path'",
+    "updated_at": "2025-01-18T23:03:04.408580",
+    "saved_at": "2025-01-18T23:03:04.417392"
+  },
+  "b6cea847-a449-41dd-93cb-cad7f826f02a": {
+    "status": "failed",
+    "error": "SettingsManager.__init__() missing 1 required positional argument: 'base_path'",
+    "updated_at": "2025-01-18T23:03:27.007825",
+    "saved_at": "2025-01-18T23:03:27.013892"
+  },
+  "b6acb7b1-de3c-4384-bb4a-4046cff86a8c": {
+    "status": "failed",
+    "error": "SettingsManager.__init__() missing 1 required positional argument: 'base_path'",
+    "updated_at": "2025-01-18T23:03:29.587853",
+    "saved_at": "2025-01-18T23:03:29.595038"
+  },
+  "9dc75f3d-b0d9-46bc-8e69-1eb243b2c832": {
+    "status": "failed",
+    "error": "SettingsManager.__init__() missing 1 required positional argument: 'base_path'",
+    "updated_at": "2025-01-18T23:06:47.074498",
+    "saved_at": "2025-01-18T23:06:47.081281"
+  },
+  "2a77d825-5a23-4152-a68f-ced540c317e8": {
+    "status": "failed",
+    "error": "SettingsManager.__init__() missing 1 required positional argument: 'base_path'",
+    "updated_at": "2025-01-18T23:07:30.756261",
+    "saved_at": "2025-01-18T23:07:30.762393"
+  },
+  "8e1c2587-9b4e-4d16-abed-220ff53f39a7": {
+    "status": "failed",
+    "error": "SettingsManager.__init__() missing 1 required positional argument: 'base_path'",
+    "updated_at": "2025-01-18T23:08:19.557901",
+    "saved_at": "2025-01-18T23:08:19.563430"
+  },
+  "011d971f-1227-49ce-b31a-a8054dc1c9ab": {
+    "status": "failed",
+    "error": "SettingsManager.__init__() missing 1 required positional argument: 'base_path'",
+    "updated_at": "2025-01-18T23:08:59.394265",
+    "saved_at": "2025-01-18T23:08:59.402896"
+  },
+  "ea5e3853-6b29-42d3-9f61-7292300b9494": {
+    "status": "failed",
+    "error": "SettingsManager.__init__() missing 1 required positional argument: 'base_path'",
+    "updated_at": "2025-01-18T23:10:34.778999",
+    "saved_at": "2025-01-18T23:10:34.784514"
+  },
+  "ed6ddc2e-26a5-424e-b672-6440b29bda8e": {
+    "status": "failed",
+    "error": "SettingsManager.__init__() missing 1 required positional argument: 'base_path'",
+    "updated_at": "2025-01-18T23:11:26.458620",
+    "saved_at": "2025-01-18T23:11:26.464692"
+  },
+  "577246c0-9689-47d5-b35b-d9ca73cfd28b": {
+    "status": "failed",
+    "error": "SettingsManager.__init__() missing 1 required positional argument: 'base_path'",
+    "updated_at": "2025-01-18T23:11:57.528235",
+    "saved_at": "2025-01-18T23:11:57.533907"
+  },
+  "84fec4b8-1e86-42c5-9706-e5aab4af08e9": {
+    "status": "failed",
+    "error": "SettingsManager.__init__() missing 1 required positional argument: 'base_path'",
+    "updated_at": "2025-01-18T23:12:20.320151",
+    "saved_at": "2025-01-18T23:12:20.325987"
+  },
+  "b3d35848-8568-41dc-82c0-2ec3ecd6643a": {
+    "status": "failed",
+    "error": "SettingsManager.__init__() missing 1 required positional argument: 'base_path'",
+    "updated_at": "2025-01-18T23:12:22.000367",
+    "saved_at": "2025-01-18T23:12:22.005484"
+  },
+  "4776e1cb-1d7a-4cd3-abf2-106e9451dee9": {
+    "status": "failed",
+    "error": "SettingsManager.__init__() missing 1 required positional argument: 'base_path'",
+    "updated_at": "2025-01-18T23:35:55.365438",
+    "saved_at": "2025-01-18T23:35:55.372872"
+  },
+  "14c84b7b-8276-47fa-adf0-275da04e7251": {
+    "status": "failed",
+    "error": "SettingsManager.__init__() missing 1 required positional argument: 'base_path'",
+    "updated_at": "2025-01-18T23:37:14.045848",
+    "saved_at": "2025-01-18T23:37:14.051360"
+  },
+  "2e639816-d9f9-4a0f-8f0a-02595eee1ec1": {
+    "status": "failed",
+    "error": "SettingsManager.__init__() missing 1 required positional argument: 'base_path'",
+    "updated_at": "2025-01-18T23:39:29.792642",
+    "saved_at": "2025-01-18T23:39:29.801187"
+  },
+  "6cc00bf2-d893-49bf-ac57-93aa745446c2": {
+    "status": "completed",
+    "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\DLR207_1737218875.mp4",
+    "message": "Hook video processed successfully",
+    "progress": 100,
+    "updated_at": "2025-01-18T23:48:56.386418",
+    "saved_at": "2025-01-18T23:48:56.386418"
+  },
+  "312bfa48-4c04-41a4-8314-194e272015d4": {
+    "status": "completed",
+    "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\DLR207_1737219134.mp4",
+    "message": "Hook video processed successfully",
+    "progress": 100,
+    "updated_at": "2025-01-18T23:53:14.969490",
+    "saved_at": "2025-01-18T23:53:14.974507"
+  },
+  "2b14a8a6-2d5b-4655-8f1e-ae6889da7ca5": {
+    "status": "completed",
+    "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\DLR207_1737219375.mp4",
+    "message": "Hook video processed successfully",
+    "progress": 100,
+    "updated_at": "2025-01-18T23:57:16.291767",
+    "saved_at": "2025-01-18T23:57:16.297384"
+  },
+  "10a4d00c-0d8f-42d7-ba14-42a2089da98f": {
+    "status": "completed",
+    "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\DLR207_1737219789.mp4",
+    "message": "Hook video processed successfully",
+    "progress": 100,
+    "updated_at": "2025-01-19T00:04:09.140495",
+    "saved_at": "2025-01-19T00:04:09.146606"
+  },
+  "dfaa5f21-8640-4e36-b045-9626046fd5fd": {
+    "status": "completed",
+    "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\DLR207_1737219985.mp4",
+    "message": "Hook video processed successfully",
+    "progress": 100,
+    "updated_at": "2025-01-19T00:07:23.336418",
+    "saved_at": "2025-01-19T00:07:23.342564"
+  },
+  "60b3bcd6-938d-4be4-81d2-3715d83ede09": {
+    "status": "completed",
+    "processed_count": 1,
+    "failed_count": 0,
+    "total": 1,
+    "results": [
+      {
+        "name": "kb1",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb1_1737255078.mp4"
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 1 succeeded, 0 failed.",
+    "updated_at": "2025-01-19T09:54:16.712068",
+    "saved_at": "2025-01-19T09:54:16.721323"
+  },
+  "687bd496-50b5-4473-bea8-203f9d9ac25b": {
+    "status": "completed",
+    "processed_count": 1,
+    "failed_count": 0,
+    "total": 1,
+    "results": [
+      {
+        "name": "kb44",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb44_1737261489.mp4"
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 1 succeeded, 0 failed.",
+    "updated_at": "2025-01-19T11:40:41.927481",
+    "saved_at": "2025-01-19T11:40:41.933286"
+  },
+  "f539a926-8a9f-426a-9918-bed827464ce2": {
+    "status": "completed",
+    "processed_count": 1,
+    "failed_count": 0,
+    "total": 1,
+    "results": [
+      {
+        "name": "kb44",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb44_1737261872.mp4"
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 1 succeeded, 0 failed.",
+    "updated_at": "2025-01-19T11:46:59.044200",
+    "saved_at": "2025-01-19T11:46:59.050080"
+  },
+  "90cf2c75-3f4b-438f-9886-40df66c3d6ca": {
+    "status": "completed",
+    "processed_count": 1,
+    "failed_count": 0,
+    "total": 1,
+    "results": [
+      {
+        "name": "kb43",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb43_1737265887.mp4"
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 1 succeeded, 0 failed.",
+    "updated_at": "2025-01-19T12:54:21.978586",
+    "saved_at": "2025-01-19T12:54:21.984603"
+  },
+  "5be89240-fc00-41cd-9b55-0aea45e55ecc": {
+    "status": "completed",
+    "processed_count": 1,
+    "failed_count": 0,
+    "total": 1,
+    "results": [
+      {
+        "name": "kb42",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb42_1737266685.mp4"
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 1 succeeded, 0 failed.",
+    "updated_at": "2025-01-19T13:07:13.501706",
+    "saved_at": "2025-01-19T13:07:13.507253"
+  },
+  "30709b4f-c136-4b5b-a64b-1ea3a152d116": {
+    "status": "completed",
+    "processed_count": 1,
+    "failed_count": 0,
+    "total": 1,
+    "results": [
+      {
+        "name": "kb41",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb41_1737267987.mp4"
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 1 succeeded, 0 failed.",
+    "updated_at": "2025-01-19T13:29:20.069851",
+    "saved_at": "2025-01-19T13:29:20.076313"
+  },
+  "787e2e6d-280b-465a-8e03-8b6ebd852c6f": {
+    "status": "completed",
+    "processed_count": 1,
+    "failed_count": 0,
+    "total": 1,
+    "results": [
+      {
+        "name": "kb40",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb40_1737268380.mp4"
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 1 succeeded, 0 failed.",
+    "updated_at": "2025-01-19T13:35:24.538958",
+    "saved_at": "2025-01-19T13:35:24.545289"
+  },
+  "fa9a5347-bc85-465d-89e0-337b9fed626d": {
+    "status": "completed",
+    "processed_count": 1,
+    "failed_count": 0,
+    "total": 1,
+    "results": [
+      {
+        "name": "kb42",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb42_1737269359.mp4"
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 1 succeeded, 0 failed.",
+    "updated_at": "2025-01-19T13:51:40.818650",
+    "saved_at": "2025-01-19T13:51:40.824678"
+  },
+  "94f77349-203a-4177-9d78-b824e449b9d3": {
+    "status": "completed",
+    "processed_count": 2,
+    "failed_count": 0,
+    "total": 2,
+    "results": [
+      {
+        "name": "kb41",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb41_1737269766.mp4"
+      },
+      {
+        "name": "kb42",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb42_1737269945.mp4"
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 2 succeeded, 0 failed.",
+    "updated_at": "2025-01-19T14:01:30.940214",
+    "saved_at": "2025-01-19T14:01:30.948917"
+  },
+  "3dbd2e91-bbce-43ce-9cff-cb6cc5043048": {
+    "status": "completed",
+    "processed_count": 2,
+    "failed_count": 0,
+    "total": 2,
+    "results": [
+      {
+        "name": "kb40",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb40_1737270286.mp4"
+      },
+      {
+        "name": "kb42",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb42_1737270427.mp4"
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 2 succeeded, 0 failed.",
+    "updated_at": "2025-01-19T14:09:34.096560",
+    "saved_at": "2025-01-19T14:09:34.102087"
+  },
+  "40862a8e-e97a-437b-900d-fc23092c9a80": {
+    "status": "completed",
+    "processed_count": 3,
+    "failed_count": 0,
+    "total": 3,
+    "results": [
+      {
+        "name": "kb39",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb39_1737270815.mp4"
+      },
+      {
+        "name": "kb40",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb40_1737270970.mp4"
+      },
+      {
+        "name": "kb42",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb42_1737271116.mp4"
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 3 succeeded, 0 failed.",
+    "updated_at": "2025-01-19T14:21:02.402306",
+    "saved_at": "2025-01-19T14:21:02.408379"
+  },
+  "59bd5794-4907-431e-a696-37794b5d4f8d": {
+    "status": "completed",
+    "processed_count": 3,
+    "failed_count": 0,
+    "total": 3,
+    "results": [
+      {
+        "name": "kb38",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb38_1737271339.mp4"
+      },
+      {
+        "name": "kb40",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb40_1737271481.mp4"
+      },
+      {
+        "name": "kb42",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb42_1737271627.mp4"
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 3 succeeded, 0 failed.",
+    "updated_at": "2025-01-19T14:29:32.433370",
+    "saved_at": "2025-01-19T14:29:32.446517"
+  },
+  "48509683-0705-4bfc-a75c-b7a143384a31": {
+    "status": "completed",
+    "processed_count": 3,
+    "failed_count": 0,
+    "total": 3,
+    "results": [
+      {
+        "name": "kb37",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb37_1737271916.mp4"
+      },
+      {
+        "name": "kb40",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb40_1737272092.mp4"
+      },
+      {
+        "name": "kb42",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb42_1737272234.mp4"
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 3 succeeded, 0 failed.",
+    "updated_at": "2025-01-19T14:39:43.102565",
+    "saved_at": "2025-01-19T14:39:43.108628"
+  },
+  "aa03a1c1-52b4-456d-a77a-daf0f17ccc28": {
+    "status": "completed",
+    "processed_count": 3,
+    "failed_count": 0,
+    "total": 3,
+    "results": [
+      {
+        "name": "kb36",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb36_1737272454.mp4"
+      },
+      {
+        "name": "kb40",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb40_1737272603.mp4"
+      },
+      {
+        "name": "kb42",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb42_1737272743.mp4"
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 3 succeeded, 0 failed.",
+    "updated_at": "2025-01-19T14:48:07.289244",
+    "saved_at": "2025-01-19T14:48:07.296439"
+  },
+  "41f07069-35fc-46d2-a652-b4f0cab21c00": {
+    "status": "completed",
+    "processed_count": 3,
+    "failed_count": 0,
+    "total": 3,
+    "results": [
+      {
+        "name": "kb35",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb35_1737272978.mp4"
+      },
+      {
+        "name": "kb40",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb40_1737273119.mp4"
+      },
+      {
+        "name": "kb42",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb42_1737273258.mp4"
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 3 succeeded, 0 failed.",
+    "updated_at": "2025-01-19T14:56:43.710127",
+    "saved_at": "2025-01-19T14:56:43.719926"
+  },
+  "2c9a8f32-8b77-4636-bd53-13424001b0e4": {
+    "status": "completed",
+    "processed_count": 3,
+    "failed_count": 0,
+    "total": 3,
+    "results": [
+      {
+        "name": "kb34",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb34_1737273590.mp4"
+      },
+      {
+        "name": "kb40",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb40_1737273791.mp4"
+      },
+      {
+        "name": "kb42",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb42_1737273935.mp4"
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 3 succeeded, 0 failed.",
+    "updated_at": "2025-01-19T15:07:59.006668",
+    "saved_at": "2025-01-19T15:07:59.013336"
+  },
+  "13c62eae-299a-4719-86e8-7959fe7ab7e3": {
+    "status": "completed",
+    "processed_count": 3,
+    "failed_count": 0,
+    "total": 3,
+    "results": [
+      {
+        "name": "kb33",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb33_1737274150.mp4"
+      },
+      {
+        "name": "kb40",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb40_1737274316.mp4"
+      },
+      {
+        "name": "kb42",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb42_1737274465.mp4"
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 3 succeeded, 0 failed.",
+    "updated_at": "2025-01-19T15:16:51.599013",
+    "saved_at": "2025-01-19T15:16:51.608641"
+  },
+  "94cce3ae-4920-4f6c-847b-3abbd1becd5b": {
+    "status": "completed",
+    "processed_count": 3,
+    "failed_count": 0,
+    "total": 3,
+    "results": [
+      {
+        "name": "kb32",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb32_1737274714.mp4"
+      },
+      {
+        "name": "kb40",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb40_1737274884.mp4"
+      },
+      {
+        "name": "kb42",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb42_1737275023.mp4"
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 3 succeeded, 0 failed.",
+    "updated_at": "2025-01-19T15:26:08.139905",
+    "saved_at": "2025-01-19T15:26:08.148494"
+  },
+  "ad822cf9-581c-469f-a02e-d5ceca435424": {
+    "status": "completed",
+    "processed_count": 3,
+    "failed_count": 0,
+    "total": 3,
+    "results": [
+      {
+        "name": "kb31",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb31_1737275316.mp4"
+      },
+      {
+        "name": "kb40",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb40_1737275506.mp4"
+      },
+      {
+        "name": "kb42",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb42_1737275649.mp4"
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 3 succeeded, 0 failed.",
+    "updated_at": "2025-01-19T15:36:35.949566",
+    "saved_at": "2025-01-19T15:36:35.955632"
+  },
+  "474badab-f0a4-471d-be91-61e094d1106d": {
+    "status": "completed",
+    "processed_count": 3,
+    "failed_count": 0,
+    "total": 3,
+    "results": [
+      {
+        "name": "kb30",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb30_1737275824.mp4"
+      },
+      {
+        "name": "kb40",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb40_1737275955.mp4"
+      },
+      {
+        "name": "kb42",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb42_1737276100.mp4"
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 3 succeeded, 0 failed.",
+    "updated_at": "2025-01-19T15:44:06.477108",
+    "saved_at": "2025-01-19T15:44:06.484820"
+  },
+  "1c46b0dc-a94b-46ca-adda-927c1c7323d2": {
+    "status": "completed",
+    "processed_count": 3,
+    "failed_count": 0,
+    "total": 3,
+    "results": [
+      {
+        "name": "kb29",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb29_1737276344.mp4"
+      },
+      {
+        "name": "kb40",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb40_1737276482.mp4"
+      },
+      {
+        "name": "kb42",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb42_1737276623.mp4"
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 3 succeeded, 0 failed.",
+    "updated_at": "2025-01-19T15:52:43.398898",
+    "saved_at": "2025-01-19T15:52:43.404959"
+  },
+  "3842c075-2b5e-4649-bcee-2f90d3eec8ff": {
+    "status": "completed",
+    "processed_count": 3,
+    "failed_count": 0,
+    "total": 3,
+    "results": [
+      {
+        "name": "kb28",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb28_1737276870.mp4"
+      },
+      {
+        "name": "kb40",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb40_1737277014.mp4"
+      },
+      {
+        "name": "kb42",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb42_1737277154.mp4"
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 3 succeeded, 0 failed.",
+    "updated_at": "2025-01-19T16:01:41.107982",
+    "saved_at": "2025-01-19T16:01:41.113006"
+  },
+  "451ab250-059c-4f03-98c4-1af3abda750f": {
+    "status": "completed",
+    "processed_count": 3,
+    "failed_count": 0,
+    "total": 3,
+    "results": [
+      {
+        "name": "kb27",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb27_1737277365.mp4"
+      },
+      {
+        "name": "kb40",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb40_1737277478.mp4"
+      },
+      {
+        "name": "kb42",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb42_1737277627.mp4"
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 3 succeeded, 0 failed.",
+    "updated_at": "2025-01-19T16:09:34.496471",
+    "saved_at": "2025-01-19T16:09:34.502470"
+  },
+  "6d0b3d6c-2bd2-4229-b79f-27a9dabbb922": {
+    "status": "completed",
+    "processed_count": 3,
+    "failed_count": 0,
+    "total": 3,
+    "results": [
+      {
+        "name": "kb26",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb26_1737277877.mp4"
+      },
+      {
+        "name": "kb40",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb40_1737278007.mp4"
+      },
+      {
+        "name": "kb42",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb42_1737278164.mp4"
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 3 succeeded, 0 failed.",
+    "updated_at": "2025-01-19T16:18:37.608191",
+    "saved_at": "2025-01-19T16:18:37.615300"
+  },
+  "77d6bd17-5824-4d9d-ab7c-d222202dbabc": {
+    "status": "completed",
+    "processed_count": 1,
+    "failed_count": 0,
+    "total": 1,
+    "results": [
+      {
+        "name": "kb10",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb10_1737296336.mp4"
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 1 succeeded, 0 failed.",
+    "updated_at": "2025-01-19T21:21:30.078581",
+    "saved_at": "2025-01-19T21:21:30.085126"
+  },
+  "d8cc1f61-0f52-4a02-a7a5-0a2607a3d3df": {
+    "status": "completed",
+    "processed_count": 1,
+    "failed_count": 0,
+    "total": 1,
+    "results": [
+      {
+        "name": "kb46",
+        "status": "success",
+        "output_path": "D:\\WorkflowV1\\VideoMakerModule\\final\\kb46_1737298044.mp4"
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 1 succeeded, 0 failed.",
+    "updated_at": "2025-01-19T21:50:26.256739",
+    "saved_at": "2025-01-19T21:50:26.263323"
+  },
+  "711d4798-80fd-4153-93e3-bee39faa0f5c": {
+    "status": "completed",
+    "processed_count": 0,
+    "failed_count": 1,
+    "total": 1,
+    "results": [
+      {
+        "name": "kb1",
+        "status": "failed",
+        "error": "[WinError 32] The process cannot access the file because it is being used by another process: 'D:\\\\CodeNew\\\\temp\\\\main_part_1.mp4'"
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 0 succeeded, 1 failed.",
+    "updated_at": "2025-01-20T09:32:07.299260",
+    "saved_at": "2025-01-20T09:32:07.299763"
+  },
+  "8604297d-b7d6-4a64-ad11-1c3abcc555d8": {
+    "status": "completed",
+    "processed_count": 0,
+    "failed_count": 1,
+    "total": 1,
+    "results": [
+      {
+        "name": "kb1",
+        "status": "failed",
+        "error": "Command '['ffmpeg', '-i', 'D:\\\\CodeNew\\\\temp\\\\hook_background.mp4', '-i', 'D:\\\\CodeNew\\\\input\\\\KB1_Hook\\\\KB1_Hook.png', '-i', 'D:\\\\CodeNew\\\\temp\\\\normalized_hook_1737340434.wav', '-filter_complex', '[0:v]scale=1080:1920[scaled],[scaled][1:v]overlay=0:0[v]', '-map', '[v]', '-map', '2:a', '-c:v', '-preset', 'p4', '-tune', 'hq', '-rc', 'cbr', '-b:v', '4M', '-minrate', '4M', '-maxrate', '4M', '-bufsize', '4M', '-profile:v', 'high', '-r', '30', '-g', '60', '-vf', 'scale=1080:1920,format=yuv420p', '-c:a', 'aac', 'D:\\\\CodeNew\\\\temp\\\\hook_with_thumbnail_1737340436.mp4', '-c:v', 'libx264', '-preset', 'medium']' returned non-zero exit status 4294967274."
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 0 succeeded, 1 failed.",
+    "updated_at": "2025-01-20T09:33:57.052795",
+    "saved_at": "2025-01-20T09:33:57.052795"
+  },
+  "91390786-0ee8-4297-9a40-ace39ccfdb33": {
+    "status": "completed",
+    "processed_count": 0,
+    "failed_count": 1,
+    "total": 1,
+    "results": [
+      {
+        "name": "kb1",
+        "status": "failed",
+        "error": "Command '['ffmpeg', '-i', 'D:\\\\CodeNew\\\\temp\\\\hook_background.mp4', '-i', 'D:\\\\CodeNew\\\\input\\\\KB1_Hook\\\\KB1_Hook.png', '-i', 'D:\\\\CodeNew\\\\temp\\\\normalized_hook_1737340506.wav', '-filter_complex', \"[0:v][1:v]overlay=0:0:enable='between(t,0,7.582667)',fade=t=in:st=0:d=0.5,fade=t=out:st=7.082667:d=0.5[v]\", '-map', '[v]', '-map', '2:a', '-c:v', '-preset', 'p4', '-tune', 'hq', '-rc', 'cbr', '-b:v', '4M', '-minrate', '4M', '-maxrate', '4M', '-bufsize', '4M', '-profile:v', 'high', '-r', '30', '-g', '60', '-vf', 'scale=1080:1920,format=yuv420p', '-vf', 'scale=1080:1920', '-c:a', 'aac', 'D:\\\\CodeNew\\\\temp\\\\hook_with_thumbnail_1737340507.mp4', '-c:v', 'libx264', '-preset', 'medium']' returned non-zero exit status 4294967274."
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 0 succeeded, 1 failed.",
+    "updated_at": "2025-01-20T09:35:08.211706",
+    "saved_at": "2025-01-20T09:35:08.212857"
+  },
+  "b00e02d3-cdce-4cc8-acfb-30b07f7cc6db": {
+    "status": "completed",
+    "processed_count": 0,
+    "failed_count": 1,
+    "total": 1,
+    "results": [
+      {
+        "name": "kb1",
+        "status": "failed",
+        "error": "Command '['ffmpeg', '-i', 'D:\\\\CodeNew\\\\temp\\\\hook_background.mp4', '-i', 'D:\\\\CodeNew\\\\input\\\\KB1_Hook\\\\KB1_Hook.png', '-i', 'D:\\\\CodeNew\\\\temp\\\\normalized_hook_1737340544.wav', '-filter_complex', \"[0:v][1:v]overlay=0:0:enable='between(t,0,7.582667)',fade=t=in:st=0:d=0.5,fade=t=out:st=7.082667:d=0.5[v]\", '-map', '[v]', '-map', '2:a', '-c:v', '-preset', 'p4', 'hq', 'cbr', '-b:v', '4M', '-minrate', '4M', '-maxrate', '4M', '4M', '-profile:v', 'high', '-r', '30', '-g', '60', '-vf', 'scale=1080:1920,format=yuv420p', '-vf', 'scale=1080:1920,format=yuv420p', '-c:a', 'aac', 'D:\\\\CodeNew\\\\temp\\\\hook_with_thumbnail_1737340548.mp4', '-c:v', 'libx264', '-preset', 'medium']' returned non-zero exit status 4294967274."
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 0 succeeded, 1 failed.",
+    "updated_at": "2025-01-20T09:35:49.533311",
+    "saved_at": "2025-01-20T09:35:49.533311"
+  },
+  "49730777-116c-4ae8-9724-dc72e10f605f": {
+    "status": "completed",
+    "processed_count": 0,
+    "failed_count": 1,
+    "total": 1,
+    "results": [
+      {
+        "name": "kb1",
+        "status": "failed",
+        "error": "Command '['ffmpeg', '-i', 'D:\\\\CodeNew\\\\temp\\\\hook_background.mp4', '-i', 'D:\\\\CodeNew\\\\input\\\\KB1_Hook\\\\KB1_Hook.png', '-i', 'D:\\\\CodeNew\\\\temp\\\\normalized_hook_1737340656.wav', '-filter_complex', \"[0:v][1:v]overlay=0:0:enable='between(t,0,7.582667)',fade=t=in:st=0:d=0.5,fade=t=out:st=7.082667:d=0.5[v]\", '-map', '[v]', '-map', '2:a', '-c:v', '-preset', 'p4', 'hq', 'cbr', '-b:v', '4M', '-minrate', '4M', '-maxrate', '4M', '4M', '-profile:v', 'high', '-r', '30', '-g', '60', '-vf', 'scale=1080:1920,format=yuv420p', '-vf', 'scale=1080:1920,format=yuv420p', '-c:a', 'aac', 'D:\\\\CodeNew\\\\temp\\\\hook_with_thumbnail_1737340659.mp4', '-c:v', 'libx264', '-preset', 'medium']' returned non-zero exit status 4294967274."
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 0 succeeded, 1 failed.",
+    "updated_at": "2025-01-20T09:37:39.729998",
+    "saved_at": "2025-01-20T09:37:39.729998"
+  },
+  "bc9240fe-7674-447f-9f3a-5941800016ab": {
+    "status": "completed",
+    "processed_count": 0,
+    "failed_count": 1,
+    "total": 1,
+    "results": [
+      {
+        "name": "kb1",
+        "status": "failed",
+        "error": "Command '['ffmpeg', '-i', 'D:\\\\CodeNew\\\\temp\\\\hook_background.mp4', '-i', 'D:\\\\CodeNew\\\\input\\\\KB1_Hook\\\\KB1_Hook.png', '-i', 'D:\\\\CodeNew\\\\temp\\\\normalized_hook_1737340732.wav', '-filter_complex', \"[0:v][1:v]overlay=0:0:enable='between(t,0,7.582667)',fade=t=in:st=0:d=0.5,fade=t=out:st=7.082667:d=0.5[v]\", '-map', '[v]', '-map', '2:a', '-c:v', '-preset', 'p4', 'hq', 'cbr', '-b:v', '4M', '-minrate', '4M', '-maxrate', '4M', '4M', '-profile:v', 'high', '-r', '30', '-g', '60', '-vf', 'scale=1080:1920,format=yuv420p', '-c:a', 'aac', 'D:\\\\CodeNew\\\\temp\\\\hook_with_thumbnail_1737340737.mp4', '-c:v', 'libx264', '-preset', 'medium']' returned non-zero exit status 4294967274."
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 0 succeeded, 1 failed.",
+    "updated_at": "2025-01-20T09:38:58.183075",
+    "saved_at": "2025-01-20T09:38:58.183661"
+  },
+  "a1a44a14-083c-47e2-a4dc-5882c0ece5a5": {
+    "status": "completed",
+    "processed_count": 0,
+    "failed_count": 1,
+    "total": 1,
+    "results": [
+      {
+        "name": "kb1",
+        "status": "failed",
+        "error": "ffmpeg error (see stderr output for detail)"
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 0 succeeded, 1 failed.",
+    "updated_at": "2025-01-20T09:39:09.586102",
+    "saved_at": "2025-01-20T09:39:09.586102"
+  },
+  "780e6034-8433-4b2e-96fe-430d3783f985": {
+    "status": "completed",
+    "processed_count": 0,
+    "failed_count": 1,
+    "total": 1,
+    "results": [
+      {
+        "name": "kb1",
+        "status": "failed",
+        "error": "[WinError 32] The process cannot access the file because it is being used by another process: 'D:\\\\CodeNew\\\\temp\\\\main_part_2.mp4'"
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 0 succeeded, 1 failed.",
+    "updated_at": "2025-01-20T09:41:44.209226",
+    "saved_at": "2025-01-20T09:41:44.209226"
+  },
+  "8e021f93-a0aa-4ebb-9018-65ac4b939aee": {
+    "status": "completed",
+    "processed_count": 0,
+    "failed_count": 1,
+    "total": 1,
+    "results": [
+      {
+        "name": "kb1",
+        "status": "failed",
+        "error": "Command '['ffmpeg', '-y', '-i', 'D:\\\\CodeNew\\\\Input_9_16\\\\Minecraft Parkour 17 Minutes No Copyright Gameplay   Vertical   64.mp4', '-ss', '7.562676', '-t', '663.254794', '-vf', 'scale=1080:1920', '-r', '30', '-c:v', 'h264_nvenc', '-preset', 'p4', '-b:v', '4M', 'D:\\\\CodeNew\\\\temp\\\\main_background.mp4']' returned non-zero exit status 255."
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 0 succeeded, 1 failed.",
+    "updated_at": "2025-01-20T09:46:04.559905",
+    "saved_at": "2025-01-20T09:46:04.561407"
+  },
+  "81287652-c7bd-49a2-8b56-533b2f51266a": {
+    "status": "completed",
+    "processed_count": 0,
+    "failed_count": 1,
+    "total": 1,
+    "results": [
+      {
+        "name": "kb1",
+        "status": "failed",
+        "error": "Command '['ffmpeg', '-y', '-i', 'D:\\\\CodeNew\\\\temp\\\\main_background.mp4', '-i', 'D:\\\\CodeNew\\\\temp\\\\normalized_main_1737341286.wav', '-filter_complex', \"[0:v]scale=1080:1920,fps=30,setpts=PTS-STARTPTS,ass='D\\\\:/CodeNew/input/KB1_Hook/KB1.ass'[final]\", '-map', '[final]', '-map', '1:a', '-c:v', 'h264_nvenc', '-preset', 'slow', '-profile:v', 'high', '-level', '4.2', '-rc', 'vbr_hq', '-cq', '19', '-b:v', '0', '-maxrate', '20M', '-bufsize', '40M', '-pix_fmt', 'yuv420p', '-c:a', 'aac', '-b:a', '192k', 'D:\\\\CodeNew\\\\temp\\\\main_with_subtitle_1737341327.mp4']' returned non-zero exit status 123."
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 0 succeeded, 1 failed.",
+    "updated_at": "2025-01-20T09:50:31.627910",
+    "saved_at": "2025-01-20T09:50:31.627910"
+  },
+  "1d7964b9-94ad-420b-a3c1-f7ba3becfa5c": {
+    "status": "completed",
+    "processed_count": 1,
+    "failed_count": 0,
+    "total": 1,
+    "results": [
+      {
+        "name": "kb1",
+        "status": "success",
+        "output_path": "D:\\CodeNew\\final\\kb1_1737341431.mp4"
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 1 succeeded, 0 failed.",
+    "updated_at": "2025-01-20T09:53:56.096868",
+    "saved_at": "2025-01-20T09:53:56.096868"
+  },
+  "9dd5ae19-deb4-4cef-a8e9-d7d4360ea4f0": {
+    "status": "completed",
+    "processed_count": 1,
+    "failed_count": 0,
+    "total": 1,
+    "results": [
+      {
+        "name": "kb1",
+        "status": "success",
+        "output_path": "D:\\CodeNew\\final\\kb1_1737342364.mp4"
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 1 succeeded, 0 failed.",
+    "updated_at": "2025-01-20T10:09:27.897016",
+    "saved_at": "2025-01-20T10:09:27.897016"
+  },
+  "2a0bc2ed-4434-4311-8ddb-0605b18d104c": {
+    "status": "completed",
+    "processed_count": 1,
+    "failed_count": 0,
+    "total": 1,
+    "results": [
+      {
+        "name": "kb1",
+        "status": "success",
+        "output_path": "D:\\CodeNew\\final\\kb1_1737344247.mp4"
+      }
+    ],
+    "progress": 100,
+    "message": "Batch processing completed. 1 succeeded, 0 failed.",
+    "updated_at": "2025-01-20T10:40:44.376464",
+    "saved_at": "2025-01-20T10:40:44.376464"
+  },
+  "d91f27dc-69c9-431a-8d9b-e2c265fff15f": {
+    "status": "processing",
+    "message": "Found 1 video groups to process",
+    "progress": 0,
+    "processed": 0,
+    "total": 1,
+    "results": [],
+    "updated_at": "2025-01-20T11:26:14.913467",
+    "saved_at": "2025-01-20T11:26:14.913467"
+  }
+}
